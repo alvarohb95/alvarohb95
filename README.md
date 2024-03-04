@@ -8,8 +8,8 @@ This repository contains various Python scripts and Jupyter notebooks showcasing
 
 ## Contents 📋
 
-- **[Notebook 1: Notebook Name](notebooks/notebook1.ipynb)**: Brief description of the notebook content.
-- **[Script 1: Script Name](scripts/script1.py)**: Brief description of the script's purpose.
+- **[Master_DataScience_ucm](Master_DataScience_ucm/)**: Collection of notebooks from my Master's degree in Data Science at UCM.
+- **[Recycling_App](Recycling_App/)**: Notebooks detailing the steps to create a recycling app using deep learning models.
 
 ## Usage 🚀
 
@@ -24,7 +24,7 @@ To get started with these scripts and notebooks, you can simply clone this repos
 git clone https://github.com/alvarohb95/alvarohb95.git
 
 # Navigate to the notebooks directory
-cd notebooks/
+cd Master_DataScience_ucm/
 
 # Open a notebook
-jupyter notebook notebook1.ipynb
+jupyter notebook Spatial_regression.ipynb
