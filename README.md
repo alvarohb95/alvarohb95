@@ -10,6 +10,7 @@ This repository contains various Python scripts and Jupyter notebooks showcasing
 
 - **[Master_DataScience_ucm](Master_DataScience_ucm/)**: Collection of notebooks from my Master's degree in Data Science at UCM.
 - **[Recycling_App](Recycling_App/)**: Notebooks detailing the steps to create a recycling app using deep learning models.
+- **[Others](Others/)**: Notebooks detailing other projects executed in different areas.
 
 ## Usage 🚀
 
