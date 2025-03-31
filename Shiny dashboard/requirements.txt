@@ -1,0 +1,8 @@
+shiny==1.2.1
+shinywidgets==0.3.4
+numpy==1.26.0
+pandas==2.2.3
+plotly==5.16.1
+folium==0.19.0
+geopandas==1.0.1
+openpyxl==3.1.5
