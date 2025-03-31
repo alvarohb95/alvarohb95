@@ -1,0 +1,14 @@
+transformers
+torch
+langchain
+langchain-community
+pypdf
+pydantic
+sentence-transformers
+chromadb
+gradio
+beautifulsoup4
+tensorflow==2.13.0
+tenacity==8.3.0
+fake_useragent
+huggingface_hub
