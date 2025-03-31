@@ -39,8 +39,7 @@ This repository serves as a central hub for my various Data Science projects. Th
 4. **Remote Sensing**  
    Includes a project utilizing satellite imagery to classify landscapes. This folder features:
    - Remote sensing data preparation and augmentation  
-   - Convolutional Neural Networks (CNNs) for image classification  
-   - Gradio app for quick model inference
+   - ML models for pixel classification
 
 5. **Shiny Dashboard**  
    Demonstrates a Python-based Shiny dashboard for data exploration and visualization. This folder covers:
