@@ -63,7 +63,9 @@ Feel free to explore, fork, or clone this repository to examine the notebooks an
    git clone https://github.com/alvarohb95/alvarohb95.git
 
 2. **Navigate to the notebooks directory**
-cd Master_DataScience_ucm/
+   ```bash
+   cd Master_DataScience_ucm/
 
 3. **Open a notebook**
-jupyter notebook Spatial_regression.ipynb
+   ```bash
+   jupyter notebook Spatial_regression.ipynb
